@@ -47,6 +47,15 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
+    img: 'Smart Brain.png',
+    title: 'Face Recognition-Smart Brain',
+    info: '',
+    info2: '',
+    url: 'https://smart-brain-kford.netlify.app/',
+    repo: 'https://github.com/klf006/smart-brain', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'Color Game.png',
     title: 'Color Game',
     info: '',
