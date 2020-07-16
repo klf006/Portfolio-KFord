@@ -28,6 +28,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
+    img: 'Phone Store.png',
+    title: 'Phone E-Commerce',
+    info: '',
+    info2: '',
+    url: 'https://phone-store-kford.netlify.app/',
+    repo: 'https://github.com/klf006/phone-e-commerce', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'Pattern Example.png',
     title: 'Pattern Projects',
     info: '',
