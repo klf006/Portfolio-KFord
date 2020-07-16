@@ -90,7 +90,7 @@ export const projectsData = [
     title: 'Photo Blog',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://photogrid-kford.netlify.app/',
     repo: 'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/CSS%20Unit/photoGrid', // if no repo, the button will not show up
   },
 ];
