@@ -113,7 +113,7 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'linkedin',
-      url: 'www.linkedin.com/in/kevin-ford-3bab8b1a6',
+      url: 'https://linkedin.com/in/kevin-ford-3bab8b1a6',
     },
     {
       id: uuidv1(),
