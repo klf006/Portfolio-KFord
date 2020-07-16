@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'Pattern Projects',
     info: '',
     info2: '',
-    url: 'www.cnn.com',
+    url: 'https://patternproject-kford.netlify.app/',
     repo:
       'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Bootstrap%20Unit/Bootstrap%204/11_Pattern_Project/Final', // if no repo, the button will not show up
   },
@@ -61,7 +61,7 @@ export const projectsData = [
     title: 'Startup Landing Page',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://landingpage-kford.netlify.app/',
     repo:
       'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Bootstrap%20Unit/Startup%20Landing%20Page', // if no repo, the button will not show up
   },
@@ -71,7 +71,7 @@ export const projectsData = [
     title: 'Museum of Candy',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://museum-of-candy-kford.netlify.app/',
     repo:
       'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Bootstrap%20Unit/Bootstrap%204/13_Museum_Of_Candy', // if no repo, the button will not show up
   },
