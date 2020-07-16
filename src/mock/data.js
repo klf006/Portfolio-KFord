@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'Kevin Ford Resume.png', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -34,16 +34,6 @@ export const projectsData = [
     info2: '',
     url: 'https://phone-store-kford.netlify.app/',
     repo: 'https://github.com/klf006/phone-e-commerce', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'Pattern Example.png',
-    title: 'Pattern Projects',
-    info: '',
-    info2: '',
-    url: 'https://patternproject-kford.netlify.app/',
-    repo:
-      'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Bootstrap%20Unit/Bootstrap%204/11_Pattern_Project/Final', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
@@ -83,6 +73,16 @@ export const projectsData = [
     url: 'https://museum-of-candy-kford.netlify.app/',
     repo:
       'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Bootstrap%20Unit/Bootstrap%204/13_Museum_Of_Candy', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'Pattern Example.png',
+    title: 'Pattern Projects',
+    info: '',
+    info2: '',
+    url: 'https://patternproject-kford.netlify.app/',
+    repo:
+      'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Bootstrap%20Unit/Bootstrap%204/11_Pattern_Project/Final', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
