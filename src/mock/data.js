@@ -47,6 +47,16 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
+    img: 'Color Game.png',
+    title: 'Color Game',
+    info: '',
+    info2: '',
+    url: 'https://codepen.io/klf006/pen/ExawPgy',
+    repo:
+      'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Javascript%20Unit/Color%20Game', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'Startup Landing Page.png',
     title: 'Startup Landing Page',
     info: '',
@@ -73,16 +83,6 @@ export const projectsData = [
     info2: '',
     url: '',
     repo: 'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/CSS%20Unit/photoGrid', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'Color Game.png',
-    title: 'Color Game',
-    info: '',
-    info2: '',
-    url: 'https://codepen.io/klf006/pen/ExawPgy',
-    repo:
-      'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Javascript%20Unit/Color%20Game', // if no repo, the button will not show up
   },
 ];
 
