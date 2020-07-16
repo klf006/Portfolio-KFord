@@ -17,11 +17,11 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'logo.png',
+  img: 'Kevin Ford Resume.png',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'Kevin Ford Resume.png', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1Smd07fb3mCE8QCgLWe-S4RJYwOg2eEXV/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
