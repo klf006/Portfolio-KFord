@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hello my name is',
+  title: 'Hello, my name is',
   name: 'Kevin Ford',
   subtitle: `I am the Developer to Hire`,
   cta: 'Know More',
@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Pattern Projects',
     info: '',
     info2: '',
-    url: '',
+    url: 'www.cnn.com',
     repo:
       'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Bootstrap%20Unit/Bootstrap%204/11_Pattern_Project/Final', // if no repo, the button will not show up
   },
