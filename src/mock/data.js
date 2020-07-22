@@ -32,8 +32,9 @@ export const projectsData = [
     id: uuidv1(),
     img: 'Phone Store.png',
     title: 'Phone E-Commerce',
-    info: '',
-    info2: '',
+    info:
+      'Here you will find an example of a mobile phone online store with a paypal button functionality that connects to a sandbox.',
+    info2: 'Built with React, React-Router, Styled Components, CSS, JavaScript, and HTML.',
     url: 'https://phone-store-kford.netlify.app/',
     repo: 'https://github.com/klf006/phone-e-commerce', // if no repo, the button will not show up
   },
