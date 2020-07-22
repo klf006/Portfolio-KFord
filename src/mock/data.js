@@ -49,6 +49,15 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
+    img: 'Robofriends.png',
+    title: 'Robofriends',
+    info: `My first React App build which focused on using an API, state, and component lifecycles.`,
+    info2: `Built with React, Tachyons, Cufon Fonts, Robohash, and JSON Placeholder API.`,
+    url: 'https://klf006.github.io/robofriends/',
+    repo: 'https://github.com/klf006/robofriends', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'Color Game.png',
     title: 'Color Game',
     info: `A basic color matching game with a built in RGB color generator. You can select between a six box “hard” version, or an “easier” three box one.`,
