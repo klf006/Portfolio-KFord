@@ -18,9 +18,11 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'Kevin Ford Resume.png',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: `I am a former music educator who is looking forward to making the leap into the world of web development!`,
+  paragraphTwo: `While I enjoyed my time in education, I am now the father of a wonderful toddler, who has some special needs that could not be met with both my wife and I being school teachers. Due to the aforementioned factors, we decided as a family to make some changes in order to meet these needs.
+  `,
+  paragraphThree: `Computers and technology in general have always held a special fascination to me, and upon searching into the world of web development, a new passion and curiosity took shape. Please see below for some of the projects I have been working on to date. 
+  `,
   resume: 'https://drive.google.com/file/d/1o1cRTwPQqJZIlHp9vcigoE4nydZ5hbkK/view?usp=sharing', // if no resume, the button will not show up
 };
 
