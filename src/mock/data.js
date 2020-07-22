@@ -42,8 +42,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'Smart Brain.png',
     title: 'Face Recognition-Smart Brain',
-    info: '',
-    info2: '',
+    info: `This project is designed with a Zoltar type carnival-magic atmosphere in mind. Please enter an image url and click the button.`,
+    info2: `Built with React, React-Tilt,  Clarifai API, React-Particles, and Tachyons.`,
     url: 'https://smart-brain-kford.netlify.app/',
     repo: 'https://github.com/klf006/smart-brain', // if no repo, the button will not show up
   },
