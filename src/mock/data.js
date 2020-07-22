@@ -51,8 +51,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'Color Game.png',
     title: 'Color Game',
-    info: '',
-    info2: '',
+    info: `A basic color matching game with a built in RGB color generator. You can select between a six box “hard” version, or an “easier” three box one.`,
+    info2: 'Built with HTML, CSS, and JavaScript.',
     url: 'https://codepen.io/klf006/pen/ExawPgy',
     repo:
       'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Javascript%20Unit/Color%20Game', // if no repo, the button will not show up
@@ -61,8 +61,9 @@ export const projectsData = [
     id: uuidv1(),
     img: 'Startup Landing Page.png',
     title: 'Startup Landing Page',
-    info: '',
-    info2: '',
+    info:
+      'One of my first projects, centered around the idea of creating a landing page for a startup business. The buttons and navbar links are intentionally not linked to a source.',
+    info2: 'Built with Bootstrap, CSS, HTML, and Font Awesome.',
     url: 'https://landingpage-kford.netlify.app/',
     repo:
       'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Bootstrap%20Unit/Startup%20Landing%20Page', // if no repo, the button will not show up
@@ -71,8 +72,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'Museum of Candy.png',
     title: 'Museum of Candy',
-    info: '',
-    info2: '',
+    info: `The focus of this project was design elements, color extremes, and responsiveness.`,
+    info2: 'Built with Bootstrap, CSS, HTML, and Google Fonts.',
     url: 'https://museum-of-candy-kford.netlify.app/',
     repo:
       'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Bootstrap%20Unit/Bootstrap%204/13_Museum_Of_Candy', // if no repo, the button will not show up
