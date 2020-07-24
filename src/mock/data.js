@@ -91,8 +91,9 @@ export const projectsData = [
     id: uuidv1(),
     img: 'Pattern Example.png',
     title: 'Pattern Projects',
-    info: '',
-    info2: '',
+    info:
+      'Simple pattern projectSimple pattern project to get comfortable with elements of bootstrap.',
+    info2: 'Built with HTML and Bootstrap',
     url: 'https://patternproject-kford.netlify.app/',
     repo:
       'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/Bootstrap%20Unit/Bootstrap%204/11_Pattern_Project/Final', // if no repo, the button will not show up
@@ -101,8 +102,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'Photo Blog.png',
     title: 'Photo Blog',
-    info: '',
-    info2: '',
+    info: 'A basic photo blog example to get comfortable with image sourcing and CSS styling.',
+    info2: 'Built with HTML and CSS',
     url: 'https://photogrid-kford.netlify.app/',
     repo: 'https://github.com/klf006/Udemy-Files/tree/master/Bootcamp/CSS%20Unit/photoGrid', // if no repo, the button will not show up
   },
