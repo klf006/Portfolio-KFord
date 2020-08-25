@@ -40,6 +40,15 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
+    img: 'KFord Weather App.png',
+    title: 'React Weather App',
+    info: 'The following is a simple weather app designed to be used mainly on phones, but works on desktop as well.',
+    info2: `Built with React, OpenWeatherMap API, CSS, JavaScript, and HTML.`,
+    url: 'https://react-weather-app-kford.netlify.app/',
+    repo: 'https://github.com/klf006/react-weather-app.git', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'Smart Brain.png',
     title: 'Face Recognition-Smart Brain',
     info: `This project is designed with a Zoltar type carnival-magic atmosphere in mind. Please enter an image url and click the button.`,
