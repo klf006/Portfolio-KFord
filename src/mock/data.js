@@ -23,7 +23,7 @@ export const aboutData = {
   `,
   paragraphThree: `Computers and technology in general have always held a special fascination to me, and upon searching into the world of web development, a new passion and curiosity took shape. Please see below for some of the projects I have been working on to date. 
   `,
-  resume: 'https://drive.google.com/file/d/1v25vbzA8IYO2UiFzbUKCe-c1nY_YEhM8/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1UTAYCS1SyJIaWHGBcUb6eKJnRsanuZmr/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
