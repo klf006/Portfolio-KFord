@@ -42,7 +42,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'KFord Weather App.png',
     title: 'React Weather App',
-    info: 'The following is a simple weather app designed to be used mainly on phones, but works on desktop as well.',
+    info:
+      'The following is a simple weather app designed to be used mainly on phones, but works on desktop as well.',
     info2: `Built with React, OpenWeatherMap API, CSS, JavaScript, and HTML.`,
     url: 'https://react-weather-app-kford.netlify.app/',
     repo: 'https://github.com/klf006/react-weather-app.git', // if no repo, the button will not show up
@@ -131,17 +132,17 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'codepen',
-      url: 'https://codepen.io/klf006',
+      url: 'https://www.codepen.io/klf006',
     },
     {
       id: uuidv1(),
       name: 'linkedin',
-      url: 'https://linkedin.com/in/kevin-ford-3bab8b1a6',
+      url: 'https://www.linkedin.com/in/kevin-ford-3bab8b1a6',
     },
     {
       id: uuidv1(),
       name: 'github',
-      url: 'https://github.com/klf006',
+      url: 'https://www.github.com/klf006',
     },
   ],
 };
