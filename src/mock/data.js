@@ -50,6 +50,15 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
+    img: 'Vue Progress Indicator.png',
+    title: 'Vue Progress Indicator',
+    info: 'The focus of this project was to create a responsive flyer in Vue.',
+    info2: `Built with Vue, CSS, HTML, JavaScript, Bootstrap, and jQuery.`,
+    url: 'https://codepen.io/klf006/full/MWeVYoO',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'Smart Brain.png',
     title: 'Face Recognition-Smart Brain',
     info: `This project is designed with a Zoltar type carnival-magic atmosphere in mind. Please enter an image url and click the button.`,
@@ -65,6 +74,15 @@ export const projectsData = [
     info2: `Built with React, Tachyons, Cufon Fonts, Robohash, and JSON Placeholder API.`,
     url: 'https://klf006.github.io/robofriends/',
     repo: 'https://github.com/klf006/robofriends', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'Responsive Sign In.png',
+    title: 'Responsive Sign In Page',
+    info: `Here is a basic responsive sign in with some JavaScript and CSS animations`,
+    info2: `Built with HTML, CSS, and JavaScript `,
+    url: 'https://smart-brain-kford.netlify.app/',
+    repo: 'https://github.com/klf006/smart-brain', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
