@@ -81,8 +81,8 @@ export const projectsData = [
     title: 'Responsive Sign In Page',
     info: `Here is a basic responsive sign in with some JavaScript and CSS animations`,
     info2: `Built with HTML, CSS, and JavaScript `,
-    url: 'https://smart-brain-kford.netlify.app/',
-    repo: 'https://github.com/klf006/smart-brain', // if no repo, the button will not show up
+    url: 'https://codepen.io/klf006/pen/vYKxVYB',
+    repo: 'https://codepen.io/klf006/pen/vYKxVYB', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
